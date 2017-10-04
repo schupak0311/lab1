@@ -152,4 +152,10 @@ li a:hover {
 
 img{
     padding: 10px;
+    padding-left: 80px;
+}
+
+.item:hover {
+    transform: scale(1.6, 1.6);
+    transition-duration: 1s;
 }
