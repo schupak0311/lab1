@@ -1,0 +1,156 @@
+body {
+    background: #E0EAFC;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1,
+h2,
+#masthead h4 {
+    font-family: arial narrow, sans-serif;
+}
+
+
+
+h6 {
+    font-family: inherit;
+    color: orangered;
+}
+
+.youtube-video-wrap iframe {
+    display: block;
+    text-align: center;
+    max-width: 100%;
+    width: 50%;
+    margin: 4% 0;
+    height: 460px;
+}
+
+#masthead {
+    min-height: 199px;
+    background-color: #000044;
+    color: #aaaacc;
+}
+
+#masthead h1 {
+    font-size: 55px;
+    line-height: 1;
+    color: #fefeff;
+    margin-top: 50px;
+}
+
+#masthead .well {
+    margin-top: 31px;
+    background-color: #111166;
+    border-color: #000022;
+    color: #efefff;
+    min-height: 127px;
+}
+
+.panel-body {
+    padding-top: 0px;
+}
+
+a {
+    color: #223344;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #786b59;
+}
+
+#masthead h1 {
+    font-size: 80px;
+}
+
+#color {
+    color: white;
+    padding: 8px 10px;
+    background-color: black;
+}
+
+.panel .lead {
+    overflow: hidden;
+    height: 90px;
+}
+
+
+.top-spacer {
+    background-color: #ffffff;
+    height: 40px;
+}
+
+
+ul {
+    list-style-type: none;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+li a:hover {
+    background-color: green;
+}
+
+#data {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+#data td {
+    border: 1px solid white;
+    padding: 8px;
+    width: 60%;
+}
+
+#data tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#data tr:hover {
+    background-color: deepskyblue;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+
+
+.t-row {
+    margin-left: 40%;
+
+}
+
+img {
+    width: 30%;
+}
+
+.youtube-video-wrap {
+    display: block;
+}
