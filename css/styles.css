@@ -1,0 +1,150 @@
+body {
+    background: #43C6AC;
+    background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);
+    background: linear-gradient(to right, #F8FFAE, #43C6AC);
+}
+
+h1,
+h2,
+h3,
+#masthead h4 {
+    font-family: 'Oswald', arial narrow, sans-serif;
+}
+
+h6 {
+    font-family: inherit;
+    color: orangered;
+}
+
+#masthead {
+    min-height: 199px;
+    background-color: #000044;
+    color: #aaaacc;
+}
+
+#masthead h1 {
+    font-size: 55px;
+    line-height: 1;
+    color: #fefeff;
+    margin-top: 50px;
+}
+
+#masthead .well {
+    margin-top: 31px;
+    background-color: #111166;
+    border-color: #000022;
+    color: #efefff;
+    min-height: 127px;
+}
+
+.panel-body {
+    padding-top: 0px;
+}
+
+a {
+    color: #223344;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #786b59;
+}
+
+#masthead h1 {
+    font-size: 80px;
+}
+
+ul {
+    list-style-type: none;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+li a:hover {
+    background-color: green;
+}
+
+.top-spacer {
+    background-color: #ffffff;
+    height: 40px;
+}
+
+#color {
+    color: white;
+    padding: 8px 10px;
+    background-color: black;
+}
+
+
+.panel .lead {
+    overflow: hidden;
+    height: 90px;
+}
+
+
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 14px 24px;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
