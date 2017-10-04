@@ -114,6 +114,7 @@ li a:hover {
     font-size: 10px;
     margin: 4px 2px;
     cursor: pointer;
+    border-radius: 30px;
 }
 
 .fa {
@@ -147,4 +148,8 @@ li a:hover {
 .fa-linkedin {
     background: #007bb5;
     color: white;
+}
+
+img{
+    padding: 10px;
 }

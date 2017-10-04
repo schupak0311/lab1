@@ -14,7 +14,6 @@ h2,
 }
 
 
-
 h6 {
     font-family: inherit;
     color: orangered;
@@ -27,6 +26,7 @@ h6 {
     width: 50%;
     margin: 4% 0;
     height: 460px;
+    margin-left: 20px;
 }
 
 #masthead {
